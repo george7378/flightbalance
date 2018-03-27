@@ -4,5 +4,5 @@ FlightBalance is a simple application designed to let you perform weight and bal
 This project was created as a prototype for the FlightBalance Android app: https://play.google.com/store/apps/details?id=kristianseng.flightbalance
 
 ![Performing a calculation](https://raw.githubusercontent.com/george7378/flightbalance/master/_img/1.png)
-![Editing a station](https://raw.githubusercontent.com/george7378/repo/flightbalance/_img/2.png)
-![Editing an envelope](https://raw.githubusercontent.com/george7378/repo/flightbalance/_img/3.png)
+![Editing a station](https://raw.githubusercontent.com/george7378/flightbalance/master/_img/2.png)
+![Editing an envelope](https://raw.githubusercontent.com/george7378/flightbalance/master/_img/3.png)
